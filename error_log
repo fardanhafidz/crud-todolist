@@ -1,0 +1,130 @@
+[08-Mar-2023 04:01:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/db.php on line 9
+[08-Mar-2023 04:02:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/db.php on line 9
+[08-Mar-2023 04:02:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/db.php on line 9
+[08-Mar-2023 04:02:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/functions.php on line 6
+[08-Mar-2023 04:02:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/functions.php on line 7
+[08-Mar-2023 04:02:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/php-todolist/functions.php on line 10
+[08-Mar-2023 04:03:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:03:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 04:03:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 04:03:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 04:04:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:04:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 04:04:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 04:04:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 04:04:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 04:04:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 04:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 04:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:05:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:05:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 22
+[08-Mar-2023 04:05:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php on line 69
+[08-Mar-2023 04:05:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:05:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:05:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 04:05:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 04:05:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 04:05:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:15:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:37:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:37:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:37:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 04:37:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 04:37:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 04:37:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 05:50:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 05:50:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:18:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:18:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:18:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:18:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:18:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:18:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:18:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:18:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:18:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:18:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:18:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:18:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:19:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 22
+[08-Mar-2023 06:19:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php on line 69
+[08-Mar-2023 06:19:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 22
+[08-Mar-2023 06:19:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php on line 69
+[08-Mar-2023 06:19:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:19:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:19:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:19:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:19:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:19:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:19:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:19:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:19:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:19:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:19:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:21:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:21:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:21:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:21:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:21:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:21:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:21:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:22:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:22:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:22:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:22:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:22:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:22:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:24:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:24:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:24:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:24:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:24:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:24:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:24:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:24:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:24:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:24:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:25:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:25:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:25:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:25:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:25:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:25:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:25:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:25:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:25:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:25:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 22
+[08-Mar-2023 06:25:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php on line 69
+[08-Mar-2023 06:25:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:25:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayyub'@'localhost' (using password: YES) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
+[08-Mar-2023 06:25:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 6
+[08-Mar-2023 06:25:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 7
+[08-Mar-2023 06:25:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 10
+[08-Mar-2023 06:28:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php:17) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 51
+[08-Mar-2023 06:28:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/todo.php:17) in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/functions.php on line 51
+[14-May-2023 06:05:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/ayyubdza/ayyub-todo.ayyub-dzaki.com/db.php on line 9
